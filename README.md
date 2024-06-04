@@ -46,7 +46,8 @@ This project is an implementation of a simplified e-commerce system. It allows c
 - Git
 
 ### Steps to Run the Application
-git clone https://github.com/yourusername/ecommerce-application.git
+git clone https://github.com/yourusername/Ecommerce-Shopping-System.git
+
 cd ecommerce-application
 
 1. **Cloning the repository:**
