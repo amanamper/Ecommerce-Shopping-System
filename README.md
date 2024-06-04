@@ -53,7 +53,7 @@ cd Ecommerce-Shopping-System
    
 2. **Compile the project:**
 - Open your terminal or command prompt.
-- Navigate to the project directory where the `src` folder is located.
+- Navigate to the project directory where the `E-Commerce` folder is located.
 - Run the following command to compile the Java files:
   ```
   javac -d bin E-Commerce/*.java E-Commerce/model/*.java E-Commerce/model/user/*.java
