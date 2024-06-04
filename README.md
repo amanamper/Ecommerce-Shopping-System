@@ -56,7 +56,7 @@ cd Ecommerce-Shopping-System
 - Navigate to the project directory where the `src` folder is located.
 - Run the following command to compile the Java files:
   ```
-  javac -d bin src/*.java src/model/*.java src/model/user/*.java
+  javac -d bin E-Commerce/*.java E-Commerce/model/*.java E-Commerce/model/user/*.java
   ```
 
 3. **Run the application:**
