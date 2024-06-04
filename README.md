@@ -36,3 +36,63 @@ This project is an implementation of a simplified e-commerce system. It allows c
   - **Singleton Pattern:** Ensures a single instance of the shopping cart.
   - **Factory Pattern:** Encapsulates product creation.
   - **Builder Pattern:** Provides a fluent interface to construct shopping carts.
+
+
+## Setup and Running
+
+### Prerequisites
+
+- Java Development Kit (JDK) 8 or higher
+- Git
+
+### Steps to Run the Application
+git clone https://github.com/yourusername/ecommerce-application.git
+cd ecommerce-application
+
+1. **Cloning the repository:**
+   
+2. **Compile the project:**
+- Open your terminal or command prompt.
+- Navigate to the project directory where the `src` folder is located.
+- Run the following command to compile the Java files:
+  ```
+  javac -d bin src/*.java src/model/*.java src/model/user/*.java
+  ```
+
+3. **Run the application:**
+- After successful compilation, run the following command to start the application:
+  ```
+  java -cp bin MainWebsiteApplication
+  ```
+
+4. **Using the Application:**
+- Follow the on-screen instructions:
+  - **Main Menu:**
+    - Sign Up
+    - Log In
+    - Exit Application
+  - **Admin Menu:**
+    - Create Product
+    - Show All Products
+    - Read Product by Id
+    - Delete Product by Id
+    - Update Product by Id
+    - Log Out
+  - **Customer Menu:**
+    - Search for Products
+    - View Cart
+    - Checkout
+    - Log Out
+
+## Contribution
+
+Contributions are welcome! Please fork the repository and submit a pull request for review.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- This project applies fundamental design principles and patterns taught in the course.
+- Special thanks to the course instructors for their guidance and support.
