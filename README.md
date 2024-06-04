@@ -44,13 +44,12 @@ This project is an implementation of a simplified e-commerce system. It allows c
 
 - Java Development Kit (JDK) 8 or higher
 - Git
-
+- 
+1. **Cloning the repository:**
 ### Steps to Run the Application
 git clone https://github.com/yourusername/Ecommerce-Shopping-System.git
 
-cd ecommerce-application
-
-1. **Cloning the repository:**
+cd Ecommerce-Shopping-System
    
 2. **Compile the project:**
 - Open your terminal or command prompt.
